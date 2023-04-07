@@ -52,7 +52,7 @@ Para rodar a aplicação será necessária a conexão com um banco de dados loca
 
 ```sh
   # Clone this project
-$ git clone git@github.com:diegoalmda/nextjs-ignite-call.git
+$ git clone git@github.com:tallescocchi/ignite-call.git
 # Install dependencies
 $ npm install
 # Run the project
